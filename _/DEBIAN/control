@@ -1,0 +1,10 @@
+Package: com.ikilledappl3.swipe2rec
+Name: Swipe2Rec
+Depends: mobilesubstrate, ws.hbang.common
+Architecture: iphoneos-arm
+Description: Record your screen with just a swipe on the StatusBar!
+Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
+Author: iKilledAppl3 <ipodnewbee234@icloud.com>
+Section: Tweaks
+Version: 1.0.1-1
+Installed-Size: 472

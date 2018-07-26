@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = Swipe2Rec;
+		cell = PSLinkCell;
+		detail = "Swipe2RecListController";
+		icon = "Swipe2Rec.png";
+		isController = 1;
+		label = Swipe2Rec;
+	};
+}
